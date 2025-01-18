@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/simsketch" target="blank"><img src="https://img.shields.io/twitter/follow/simsketch?logo=twitter&style=for-the-badge" alt="simsketch" /></a> </p>
 
+![What I am listening to](https://spotify-recently-played-readme.vercel.app/api?user=betterdays4ever&unique={true|1|on|yes})
+
 - 🔭 I’m currently working on **the next big thing**
 
 - 🌱 I’m currently learning **Rust, Transformers.js**
