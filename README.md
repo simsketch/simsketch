@@ -7,6 +7,8 @@
 
 ![What I am listening to](https://spotify-recently-played-readme.vercel.app/api?user=betterdays4ever&unique={true|1|on|yes})
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=simsketch)](https://git.io/streak-stats)
+
 - 🔭 I’m currently working on **the next big thing**
 
 - 🌱 I’m currently learning **Rust, Transformers.js**
