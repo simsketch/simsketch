@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Elon</h1>
+<!-- h1 align="center">Hi 👋, I'm Elon</h1 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Hi+there%2C+I'm+Elon!)](https://git.io/typing-svg)
 <h3 align="center">A passionate full stack engineer from NY</h3>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simsketch&label=Profile%20views&color=0e75b6&style=flat" alt="simsketch" /> </p>
 
@@ -7,7 +10,13 @@
 
 ![What I am listening to](https://spotify-recently-played-readme.vercel.app/api?user=betterdays4ever&unique={true|1|on|yes})
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=simsketch)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simsketch&theme=javascript-dark)
+
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 - 🔭 I’m currently working on **the next big thing**
 
